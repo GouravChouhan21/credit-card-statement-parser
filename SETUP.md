@@ -28,10 +28,6 @@ MONGODB_URI=mongodb://localhost:27017/credit-card-parser
 PORT=5000
 ```
 
-Or use MongoDB Atlas connection string:
-```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/credit-card-parser
-```
 
 #### 3. Install Frontend Dependencies
 
