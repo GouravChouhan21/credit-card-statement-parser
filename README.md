@@ -2,10 +2,6 @@
 
 A full-stack web application that uploads and parses PDF credit card statements from 5 major issuers (HDFC Bank, ICICI Bank, SBI, Axis Bank, Citibank) and extracts key data points including card details, billing periods, payment due dates, balances, and transaction lists.
 
-## ⚠️ Important Disclaimer
-
-**This is a sample parser application for educational purposes only. Do not upload real, confidential, or sensitive credit card statements. Use only the provided sample PDFs for testing.**
-
 ## Tech Stack
 
 - **Frontend:** React (Vite) + Tailwind CSS
@@ -253,7 +249,6 @@ Sample PDFs for testing are stored in the `/sample_pdfs` directory. These are an
 
 ## Security & Ethics
 
-- ⚠️ **Never upload real credit card statements**
 - ⚠️ **This is for educational/demo purposes only**
 - ⚠️ **Sample PDFs should be clearly marked**
 - ⚠️ **Do not use in production without proper security measures**
@@ -269,7 +264,4 @@ Sample PDFs for testing are stored in the `/sample_pdfs` directory. These are an
 ## License
 
 This project is for educational purposes only.
-
 ---
-
-**This project was prepared for the Credit Card Statement Parser assignment due 2nd November 2025.**
